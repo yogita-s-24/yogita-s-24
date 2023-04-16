@@ -7,7 +7,8 @@
 
 
 
-<center><h1>Hi 👋, I'm Yogita Shete<h1></center>
+<center>
+  <h1>Hi 👋, I'm Yogita Shete<h1>
 <br>
 I'm currently learning Full Satck Web Development.
 
@@ -29,3 +30,6 @@ I'm currently learning Full Satck Web Development.
 [![](https://visitcount.itsvg.in/api?id=yogita-s-24&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    
+    
+    </center>
