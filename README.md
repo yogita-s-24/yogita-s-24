@@ -7,10 +7,11 @@
 
 
 
-<center>
-  <h1>Hi 👋, I'm Yogita Shete<h1>
+
+  <h1>Hi 👋, I'm Yogita Shete</h1>
 <br>
-I'm currently learning Full Satck Web Development.
+<h4>I'm currently learning Full Satck Web Development.</h4>
+
 
 
 ## 🌐 Socials:
@@ -31,5 +32,4 @@ I'm currently learning Full Satck Web Development.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
     
-    
-    </center>
+
