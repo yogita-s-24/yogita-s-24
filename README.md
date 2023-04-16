@@ -7,7 +7,7 @@
 
 
 
-# 💫 About Me:
+<center>Hi 👋, I'm Yogita Shete</center>
 I'm currently learning Full Satck Web Development.
 
 
