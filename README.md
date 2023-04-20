@@ -6,7 +6,7 @@
 -->
 
 
- <h1>Hi 👋, I'm Yogita Shete</h1>
+ <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
 
 # 💫 About Me:
 🌱I'm curruently Learning Full Stack Web Development.<br>
