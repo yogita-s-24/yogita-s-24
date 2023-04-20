@@ -8,7 +8,7 @@
 
  <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
 
-# 💫 About Me:
+<h2 align="center"># 💫 About Me:<h2>
 🌱I'm curruently Learning Full Stack Web Development.<br>
 
 
