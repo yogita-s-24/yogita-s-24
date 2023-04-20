@@ -9,7 +9,7 @@
  <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
 
 <h2 align="center"># 💫 About Me:<h2>
-🌱I'm curruently Learning Full Stack Web Development.<br>
+<p align="center">🌱I'm curruently Learning Full Stack Web Development.</p>
 
 
 ## 🌐 Socials:
