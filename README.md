@@ -12,7 +12,7 @@
 <p align="center">🌱I'm curruently Learning Full Stack Web Development.</p>
 
 
-<h2 align="center"> 🌐 Socials:</h2>
+ 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogii_s_24) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogita-shete-753a92252) 
 
