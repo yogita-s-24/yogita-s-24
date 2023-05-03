@@ -4,7 +4,7 @@
 **yogita-s-24/yogita-s-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
+<img src="https://github.com/iturbides/iturbides/blob/c4ec7b334259d1ecf924aa5a8c551db3ad6ac081/octocat.png">
 
  <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
 
