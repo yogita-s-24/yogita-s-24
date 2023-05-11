@@ -36,9 +36,11 @@
  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogita-s-24" />
 </p>
- ![](https://github-readme-stats.vercel.app/api?username=yogita-s-24&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yogita-s-24&theme=city_light&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogita-s-24&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img height="150rem" src="https://github-readme-stats.vercel.app/api?username=yogita-s-24&show_icons=true&&count_private=true&include_all_commits=true" width="45%"/>
+
+<img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogita-s-24&layout=compact&hide=Jupyter%20NoteBook" width="45%" />
+</p>
 
 ---
 
