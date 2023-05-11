@@ -33,6 +33,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
  ## 📊 GitHub Stats: 
+ <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogita-s-24" />
+</p>
  ![](https://github-readme-stats.vercel.app/api?username=yogita-s-24&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogita-s-24&theme=city_light&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogita-s-24&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
