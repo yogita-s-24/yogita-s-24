@@ -5,9 +5,6 @@
 
 -->
 <img src= octocat.png>
-<p align="center">
-  <a href="https://github.com/yogita-s-24/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MERN+Stack+Developer!" /></a>
-</p>
  <h1 align="center">Hi 👋, I'm Yogita Shete.</h1>
 
 <h2 align="center"> 💫 About Me:<h2>
