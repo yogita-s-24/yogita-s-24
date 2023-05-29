@@ -7,7 +7,7 @@
 <!-- <img src= octocat.png> -->
  <h1 align="center">Hi 👋, I'm Yogita Shete.</h1>
 
-<h2 align="center"> 💫 About Me:<h2>
+<!-- <h2 align="center"> 💫 About Me:<h2> -->
 <p align="center">🌱I'm curruently Learning Full Stack Web Development.</p>
 
 
