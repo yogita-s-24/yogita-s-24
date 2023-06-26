@@ -32,9 +32,9 @@
 
 ---
 
- <p align="center">
+
  [![](https://visitcount.itsvg.in/api?id=yogita-s-24&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
-</p>
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
