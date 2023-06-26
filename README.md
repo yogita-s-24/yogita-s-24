@@ -8,9 +8,14 @@
  <h1 align="center">Hi 👋, I'm Yogita Shete.</h1>
 
 <!-- <h2 align="center"> 💫 About Me:<h2> -->
-<p align="center">🌱I'm curruently Learning Full Stack Web Development.</p>
+<p align="center">
 
+- 🔭 I’m currently working on [road to code](www.roadtocode.org)
 
+- 🌱 I’m currently learning **MERN Stack Development**
+
+- 📫 How to reach me **yogitashete24@gmail.com**
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yogita-shete-753a92252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogita-shete-753a92252" height="30" width="40" /></a>
