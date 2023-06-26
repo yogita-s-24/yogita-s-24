@@ -7,9 +7,7 @@
 <!-- <img src= octocat.png> -->
  <h1 align="center">Hi 👋, I'm Yogita Shete.</h1>
 ---
-<h2 align="center"> 💫 About Me:<h2>
-🌱 I’m currently learning **MERN Stack Development**
-📫 How to reach me **yogitashete24@gmail.com**
+<h2 align="center"> 🌱 I’m currently learning MERN Stack Development</h2>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
