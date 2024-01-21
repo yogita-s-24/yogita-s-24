@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FullStack Development**
 
-- 💬 Ask me about **Javascript , React.is**
+- 💬 Ask me about **Javascript , React.js**
 
 - 📫 How to reach me **yogitashete24@gmail.com**
 
