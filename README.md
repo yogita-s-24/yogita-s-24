@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yogita-shete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/yogita-s-24/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-jaykar-04a167274" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yogita-shete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/yogita-s-24/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogita-s-24" height="30" width="40" /></a>
 <a href="https://instagram.com/yogii_s_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/yogita-s-24/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogii" height="30" width="40" /></a>
 </p> 
 
