@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
-<h3 align="center">Student | A passionate MERN-STACK Developer from India</h3>
+<h3 align="center">Student | A passionate FULLSTACK Developer from India</h3>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPER**
+- 🌱 I’m currently learning **FULLSTACK DEVELOPER**
 
 - 💬 Ask me About **Javascript , React.js**
 
