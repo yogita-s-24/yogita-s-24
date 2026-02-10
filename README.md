@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
 <h3 align="center">A passionate FULLSTACK Developer from India</h3>
 
-- 🌱 I’m currently learning **FULLSTACK DEVELOPER**
+- 🌱 I’m currently **FULLSTACK DEVELOPER**
 
-- 💬 Ask me About **Javascript , React.js**
+- 💬 Ask me About **Python, Django, Javascript, Flask, React.js**
 
 - 📫 How to reach me **yogitashete24@gmail.com**
 
