@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
-<h3 align="center">Student | A passionate FULLSTACK Developer from India</h3>
+<h3 align="center">A passionate FULLSTACK Developer from India</h3>
 
 - 🌱 I’m currently learning **FULLSTACK DEVELOPER**
 
