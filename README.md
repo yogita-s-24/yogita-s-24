@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Yogita Shete</h1>
-<h3 align="center">A passionate FULLSTACK Developer from India</h3>
+<h3 align="center">A passionate FULLSTACK Engineer from India</h3>
 
 - 🌱 I'm a **Full Stack Engineer** from India 🇮🇳 with **1.5+** years of experience building scalable, production-ready **web applications**.
 
 I enjoy working across the complete development lifecycle — from designing responsive frontend experiences to building APIs, backend services, database architecture
 
-- 💬 Ask me About **Python, Django, Javascript, Flask, React.js,Tailwind CSS, Postman, MongoDB**
+- 💬 Ask me About **Python, Django, Javascript, Flask, React.js,Tailwind CSS, Postman, MongoDB.**
 
-- 📫 How to reach me **yogitashete24@gmail.com**
+- 📫 **How to reach me :** **yogitashete24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
