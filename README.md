@@ -18,7 +18,7 @@
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" /> About Me
 
-- 💼 I'm currently working as a **Full-Stack Developer** at **Sartoria Systems Pvt Ltd** on the **Maestro-SC** project.
+- 💼 I'm currently working as a **Full-Stack Developer** at **Sartoria Systems Pvt Ltd**.
 - 🚀 I recently built **Trinoraa Jewels**, a live e-commerce platform using Django and Razorpay.
 - 💻 I have **1.5+ years** of experience building scalable, production-ready web applications.
 - ⚙️ I enjoy working across the complete development lifecycle — from responsive frontends to APIs, backend services, and database architecture.
