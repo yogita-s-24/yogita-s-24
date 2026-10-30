@@ -28,7 +28,6 @@
 
 ### 🛠️ Languages and Tools
 
-<!-- skillicons.dev renders clean icon rows -->
 #### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" alt="Frontend skills" />
@@ -66,7 +65,6 @@
 
 ### 🐍 Contribution Snake
 
-<!-- Requires .github/workflows/snake.yml (included alongside this README) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogita-s-24/yogita-s-24/output/github-contribution-grid-snake-dark.svg" />
