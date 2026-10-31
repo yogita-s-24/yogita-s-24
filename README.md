@@ -48,10 +48,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogita-s-24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogita-s-24&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
